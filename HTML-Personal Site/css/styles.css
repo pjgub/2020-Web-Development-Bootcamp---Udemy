@@ -3,7 +3,6 @@ body {
 }
 
 hr {
-  border-style: none;
   width: 10%;
   border-style: dotted none none;
   border-width: 5px;
